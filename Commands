@@ -1,1 +1,6 @@
-s
+setwebhook <webhookid>
+ Sets the current webhook
+compilelogs
+ Compiles all the actions in the server from warnings and changes and sends them all in a embeded form.
+warn <userID>
+ Displays a embeded message saying that the userID was warned.
